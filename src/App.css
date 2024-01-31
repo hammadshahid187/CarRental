@@ -1,0 +1,440 @@
+.logo img{
+	width: 65px
+}
+
+body{
+	
+}
+
+#hero-header{
+	background-image: url("../src/img/img1.png");
+	background-position: center;
+	background-size: cover;
+}
+
+.w-7per{
+  width: 7%!important;
+}
+.w-93per{
+  width: 93%!important;
+}
+.h-10per{
+  height: 10%;
+}
+
+.boxHeight{
+	height: 647px;
+}
+
+.h-25per{
+  height: 25%;
+}
+
+.h-40per{
+  height: 40%;
+}
+.h-90per{
+  height: 90%;
+}
+.h-20per{
+	height: 20%;
+}
+
+.h-35per{
+	height: 35%;
+}
+
+.h-100vh{
+  height: 100vh!important;
+}
+
+.text-primary ,.text-company{
+	color: #005da3 !important;
+}
+
+.btn-primary,.btn-company {
+	background-color: #005da3 !important;
+	border-color: #005da3 !important;
+	color: #fff !important;
+}
+
+.bg-primary,.bg-company{
+	background-color: #005da3 !important;
+}
+
+.btn-primary:hover,.btn-company:hover {
+	background-color: #015392 !important;
+}
+
+.btn-secondary {
+	color: #005da3!important;
+	border-color: #005da3!important;
+	background-color: #fff!important;
+}
+
+.btn-secondary:hover {
+	color: #014b83!important;
+	border-color: #005da3!important;
+	background-color: #f0efef!important;
+}
+
+.rounded-5 {
+	border-radius: 6px;
+}
+
+.gray-text {
+	color: #8f8f8e;
+}
+
+.smallest-text {
+	font-size: 10px;
+}
+
+.small-text {
+	font-size: 13px;
+}
+
+.medium-text {
+	font-size: 14px;
+}
+
+h3 {
+	font-size: 70px;
+	font-family: 'Bebas Neue', cursive;
+}
+.hero-btn button{
+	width: 100px;
+}
+.font-babas{
+	font-family: 'Bebas Neue', cursive!important;
+}
+
+h4 {
+	font-size: 35px;
+}
+
+h5 {
+	font-size: 24px;
+}
+
+.border-1 {
+	border: 1px solid #ababab;
+}
+
+.brandLogos img {
+	width: 130px;
+	object-fit: scale-down;
+	height: 43px;
+}
+
+.largest-font{
+	font-size: 55px;
+}
+
+#subscribe{
+	background-image: url("img/subscribe.png");
+	background-position: center;
+	background-size: cover;
+	margin-top: 190px;
+}
+
+.contactIcon .icon{
+	background-color: #025CA3;
+	color: #fff;
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	vertical-align: middle;
+	justify-content: center;
+	height: 60px;
+	width: 60px;
+}
+
+.contactIcon .text{
+	font-family: 'Bebas Neue', cursive;
+	color: #8B8B8B;
+}
+#contactus{
+	padding: 140px 0px;
+}
+.contactus{
+	border-radius: 39px;
+	box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 5%), 0px 1px 8px 0px rgb(0 0 0 / 8%);
+	overflow: hidden;
+}
+
+
+#subscribe hr{
+	width: 130px;
+	background-color: #fff;
+	color: #fff;
+	opacity: 1;
+	height: 6px;
+	border-radius: 20px;
+	text-align: center;
+	justify-content: center;
+}
+
+.searchBox input{
+	width: 90%;
+	outline: none;
+	background-color: transparent;
+	border: 0px;
+	font-size: 14px;
+	padding-left: 20px;
+	color: #CCCCCC;
+}
+
+.searchBox button{
+	width: 10%;
+	height: 45px;
+}
+
+.searchBox{
+	background-color: #fff;
+	border-radius: 8px;
+	padding: 6px;
+}
+
+
+.rotated-text{
+	display: block;
+  transform: rotate(-90deg);
+  text-align: right;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 15px;
+  white-space: nowrap;
+  color: #848484;
+}
+.margin-top {
+	margin-top: 130px;
+}
+
+.carDisplay {
+	padding: 12px 0px;
+}
+
+.carDisplay img {
+	width: 80px;
+	object-fit: scale-down;
+	height: 65px;
+}
+
+.brandLogos {
+	border-radius: 10px;
+	padding: 10px 0px;
+}
+
+.standerd-width {
+	width: 90px;
+}
+
+.form-check-input:checked {
+	background-color: #000000;
+	border-color: #000000;
+}
+
+#header nav .nav-link {
+	padding: 27px 0px;
+	margin-left: 15px;
+	font-size: 14px;
+	margin-right: 15px;
+	color: #8f8f8e;
+	font-family: 'Bebas Neue', cursive;
+}
+
+#header {
+	box-shadow: 0px 0px 2px 0 rgb(0 0 0 / 5%), 0px 1px 4px 1px rgb(0 0 0 / 8%);
+}
+
+.border-top-bottom{
+	border-top: 1px solid #DEDEDE;
+	border-bottom: 1px solid #DEDEDE;
+}
+
+#header nav ul li .active {
+	border-bottom: 3px solid #005da3;
+	color: #005da3;
+}
+
+#hero-header .nav-tabs button {
+	font-size: 16px;
+	font-family: 'Bebas Neue', cursive;
+}
+
+#hero-header .nav-tabs .active {
+	font-size: 16px;
+	background-color: transparent;
+	border: none !important;
+	border-bottom: 1px solid #000!important;
+	color: #000 !important;
+}
+
+#hero-header nav {
+	border-bottom: 1px solid #F0F0F0;
+}
+
+.clockBox {
+	background-color: #F3F3F3;
+}
+.clockBox input[type="text"]{
+	background-color: transparent;
+	border: 0px;
+	outline: none;
+	padding: 0px;
+	font-size: 14px;
+	border: 0px;
+	font-family: 'Bebas Neue', cursive;
+	color: #B0B0B0;
+}
+
+.clockBox input[type="text"]::placeholder{
+	color: #B0B0B0;
+}
+
+.clockBox label {
+	font-family: 'Bebas Neue', cursive;
+}
+
+.babasFont {
+	font-family: 'Bebas Neue', cursive;
+}
+
+input[type="date"] {
+	font-size: 14px;
+	border: 0px;
+	font-family: 'Bebas Neue', cursive;
+	color: #B0B0B0;
+	background: none;
+	outline: none;
+}
+
+.both-border{
+	border-left: 1px solid #8f8f8e;
+	border-right: 1px solid #8f8f8e;
+}
+.fullCar{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	vertical-align: middle;
+}
+.fullCar img{
+	width: 290px;
+}
+.form-select{
+	border: 1px solid #ababab;
+	font-size: 12px;
+	padding: 17px;
+	color: #8f8f8e;
+	background-color: transparent;
+	border-radius: 0px;
+}
+
+.border-bottom{
+	border-bottom: 1px solid #ababab;
+}
+#filter .accordion-item:first-of-type{
+	border-top-left-radius: 0rem; 
+    border-top-right-radius: 0rem;
+}
+
+#filter .accordion-item {
+    background-color: #fff;
+    border: none
+}
+
+#filter .accordion-button{
+	font-family: 'Bebas Neue', cursive;
+	color: #8f8f8e;
+	outline: none;
+}
+
+
+#filter .accordion-button{
+	font-family: 'Bebas Neue', cursive;
+	color: #8f8f8e;
+	outline: none;
+}
+
+#filter .accordion-button:not(.collapsed){
+	background-color: transparent;
+}
+#filter .form-check-label{
+	padding-left: 10px;
+}
+.form-check-input[type=checkbox]{
+	border-radius: 0px;
+}
+.cardBox button{
+	border-radius: 0px;
+}
+
+.brandHeadings{
+	padding: 10px 120px;
+}
+
+
+.headingBox{
+	margin: 70px 0px!important 
+}
+
+#footer .nav-link{
+	padding: 20px 0px;
+    margin-right: 40px;
+    color: #9BBEDA;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 3px solid transparent;
+}
+#footer .active{
+	color: #fff;
+	font-weight: 800;
+    border-bottom: 3px solid #fff;
+}
+
+#footer .navbar{
+	border-bottom: .5px solid #C7C7C7;
+}
+
+.copyright{
+	font-weight: bold;
+	color: rgb(255,255,255,28%);
+	text-transform: uppercase;
+	font-size: 12px
+}
+
+#footer{
+	background-color: #025CA3;
+}
+
+@media only screen and (max-width: 425px) {
+	.largest-font{
+		font-size: 29px;
+	}
+	.searchBox input{
+		padding: 10px 10px;
+		padding-bottom: 2px;
+		width: 100%;
+	}
+
+	.searchBox button{
+		margin-top: 13px;
+		width: 100%;
+	}
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
